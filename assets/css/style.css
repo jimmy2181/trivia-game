@@ -1,0 +1,51 @@
+body {
+	background: url('../images/film.jpg');
+	background-size: 200%;
+	padding: 10px;	
+}
+
+#title {
+	text-align: center;	
+	font-size: 60px;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	}
+
+#start{
+	color: white;
+	font-size: 25px;
+	background-color: #121213;
+	border: 1px solid #34495e;
+	width: 15%; 
+	height: 60%;
+	display: block;
+	margin: auto;
+	}
+
+h2 {
+	text-align: left;
+	padding: 8px;
+	font-size: 30px;
+	color:white;
+
+}
+
+h3 {
+	text-align: center;
+	padding: 10px;	
+}
+
+#subwrapper {
+	border: none;
+	font-size: 28px;
+	background-color: #ecf0f1;
+	text-align: left;
+	margin: 5%;
+	border: 1px solid black;
+	display: inline;
+	font-size: 25px;
+	color: #34495e;
+	font-family: 'Open Sans Condensed', sans-serif;
+	}
